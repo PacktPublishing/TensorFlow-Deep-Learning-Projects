@@ -352,7 +352,7 @@ class Environment:
                                         episode_reward,
                            np.average(self.reward_avg),
                                             time_frame,
-                                               epsilon)
+                                               epsilon))
         self.env.close()
                   
         if trainable:
