@@ -1,5 +1,5 @@
 # TensorFlow Deep Learning Projects
-<B>by Luca Massaron, Alberto Boschetti, Alexey Grigorev, Abhishek Thakur, Rajalingappaa Shanmugamani</B>
+by <B>Luca Massaron, Alberto Boschetti, Alexey Grigorev, Abhishek Thakur, Rajalingappaa Shanmugamani</B>
 
 Released March 2018</BR>
 Publisher(s): Packt Publishing</BR>
@@ -7,7 +7,7 @@ ISBN: 9781788398060</BR>
 
 <img src="./b08383_cover.png" alt="TensorFlow Deep Learning Projects" height="500" width="400"/>
 
-This is the code repository for [TensorFlow Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-deep-learning-projects), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [TensorFlow Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-deep-learning-projects), published by [Packt](https://www.packtpub.com/?utm_source=github).</BR>It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 TensorFlow is one of the most popular frameworks used for machine learning and, more recently, deep learning. It provides a fast and efficient framework for training different kinds of deep learning models, with very high accuracy. This book is your guide to master deep learning with TensorFlow with the help of 10 real-world projects.
 
