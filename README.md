@@ -4,7 +4,7 @@ Released March 2018
 Publisher(s): Packt Publishing
 ISBN: 9781788398060
 
-![TensorFlow Deep Learning Projects](https://www.packtpub.com/media/catalog/product/cache/c2dd93b9130e9fabaf187d1326a880fc/b/0/b08383_cover.png, "cover")
+![TensorFlow Deep Learning Projects](b08383_cover.png, "cover")
 
 This is the code repository for [TensorFlow Deep Learning Projects](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-deep-learning-projects), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
