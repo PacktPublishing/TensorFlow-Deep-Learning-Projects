@@ -1,7 +1,10 @@
 # TensorFlow Deep Learning Projects
 by Luca Massaron, Alberto Boschetti, Alexey Grigorev, Abhishek Thakur, Rajalingappaa Shanmugamani
+
 Released March 2018
+
 Publisher(s): Packt Publishing
+
 ISBN: 9781788398060
 
 ![TensorFlow Deep Learning Projects](b08383_cover.png, "cover")
